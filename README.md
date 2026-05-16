@@ -1,4 +1,8 @@
 # PalmettoWeather
+<img width="1457" height="1009" alt="1" src="https://github.com/user-attachments/assets/b7292652-d792-41eb-98ed-470fcd90b8da" />
+<img width="1453" height="930" alt="3" src="https://github.com/user-attachments/assets/7fcb6b5e-ae83-471c-b89f-8a98c581adff" />
+<img width="1450" height="928" alt="2" src="https://github.com/user-attachments/assets/ee3975dc-cd46-431c-a868-457dd94382b8" />
+
 
 A small Next.js application with two views:
 
